@@ -37,7 +37,7 @@ const jsonData = {
         status: 'Available',
       },
       {
-        id: 1,
+        id: 4,
         make: 'Toyota',
         model: 'Corolla',
         year: 2020,
@@ -49,7 +49,7 @@ const jsonData = {
         status: 'Available',
       },
       {
-        id: 1,
+        id: 5,
         make: 'Toyota',
         model: 'Corolla',
         year: 2020,
@@ -60,9 +60,9 @@ const jsonData = {
         isFavorite: false,
         status: 'Available',
       },      {
-        id: 1,
+        id: 6,
         make: 'Toyota',
-        model: 'Corolla',
+        model: 'Crysta',
         year: 2020,
         mileage: 15000,
         price: 18000,
@@ -72,7 +72,7 @@ const jsonData = {
         status: 'Available',
       },
       {
-        id: 3,
+        id: 7,
         make: 'Ford',
         model: 'Focus',
         year: 2021,
@@ -84,7 +84,7 @@ const jsonData = {
         status: 'Available',
       },
       {
-        id: 3,
+        id: 8,
         make: 'Ford',
         model: 'Focus',
         year: 2021,
