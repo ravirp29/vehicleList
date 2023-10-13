@@ -14,7 +14,7 @@ th {
   background-color: grey;
   padding: 10px
 }
-input[type=text], select { 
+input[type=text] { 
   width: 500px; 
   padding: 12px 20px; 
   margin: 8px 0; 
@@ -29,7 +29,7 @@ input[type=text], select {
 }
 
 .pagenation {
-  margin-left: 700px;
+  margin-left: 585px;
 }
 
 .carstatus {
@@ -38,4 +38,8 @@ input[type=text], select {
 
 .soldout {
   background-color: red;
+}
+
+.pageSelect {
+align-content: center;
 }
