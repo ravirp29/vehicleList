@@ -1,0 +1,41 @@
+td img { 
+  width: 200px; 
+  height: 100px; 
+} 
+table { 
+  width: 90%;
+  margin: auto;
+} 
+td { 
+  text-align: center; 
+} 
+
+th {
+  background-color: grey;
+  padding: 10px
+}
+input[type=text], select { 
+  width: 500px; 
+  padding: 12px 20px; 
+  margin: 8px 0; 
+  display: inline-block; 
+  text-align: left; 
+}
+
+.search {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 5%;
+}
+
+.pagenation {
+  margin-left: 700px;
+}
+
+.carstatus {
+  background-color: green;
+}
+
+.soldout {
+  background-color: red;
+}
